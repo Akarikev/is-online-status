@@ -8,14 +8,14 @@ A React custom hook to check the online status of a user's device.
 Install the package using npm or yarn:
 
 ```bash
-npm install use-online-status
+npm install re-use-online
 ```
 ````
 
 or
 
 ```bash
-yarn add use-online-status
+yarn add re-use-online
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Import the `useOnlineStatus` hook into your React component and use it to check 
 
 ```javascript
 import React from "react";
-import useOnlineStatus from "use-online-status";
+import useOnlineStatus from "re-use-online";
 
 function MyComponent() {
   const isOnline = useOnlineStatus();

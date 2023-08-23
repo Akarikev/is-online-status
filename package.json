@@ -1,5 +1,5 @@
 {
-  "name": "is-online-check",
+  "name": "use-online-status",
   "version": "1.0.0",
   "description": "Validate whether your react application is connected to the internet or not",
   "main": "index.js",
@@ -12,12 +12,14 @@
   },
   "keywords": [
     "online",
-    "checker"
+    "checker",
+    "react online status"
   ],
   "author": "Akarikev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Akarikev/is-online-status/issues"
   },
-  "homepage": "https://github.com/Akarikev/is-online-status#readme"
+  "homepage": "https://github.com/Akarikev/is-online-status#readme",
+  "readme": "https://github.com/Akarikev/is-online-status#readme"
 }

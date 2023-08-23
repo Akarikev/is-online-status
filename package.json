@@ -1,0 +1,23 @@
+{
+  "name": "is-online-check",
+  "version": "1.0.0",
+  "description": "Validate whether your react application is connected to the internet or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akarikev/is-online-status.git"
+  },
+  "keywords": [
+    "online",
+    "checker"
+  ],
+  "author": "Akarikev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akarikev/is-online-status/issues"
+  },
+  "homepage": "https://github.com/Akarikev/is-online-status#readme"
+}

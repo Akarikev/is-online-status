@@ -1,6 +1,6 @@
 {
   "name": "re-use-online",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Validate whether your react application is connected to the internet or not",
   "main": "index.js",
   "scripts": {

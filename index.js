@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+const { useState, useEffect } = require("react");
 
 function useOnlineStatus() {
   const [isOnline, setIsOnline] = useState(window.navigator.onLine);
@@ -19,4 +19,4 @@ function useOnlineStatus() {
   return isOnline;
 }
 
-export default useOnlineStatus;
+module.exports = useOnlineStatus;

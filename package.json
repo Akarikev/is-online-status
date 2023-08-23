@@ -1,5 +1,5 @@
 {
-  "name": "use-online-status",
+  "name": "re-use-online",
   "version": "1.0.1",
   "description": "Validate whether your react application is connected to the internet or not",
   "main": "index.js",

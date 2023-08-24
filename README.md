@@ -1,7 +1,7 @@
 ````markdown
-# re-use-online@v1.1.4
+# re-use-online@v1.1.5
 
-All other versions works. choose the one best suited for your needs. Please Note version1.1.4 supports TypeScript
+All other versions works. choose the one best suited for your needs. Please Note version1.1.4 and version 1.1.4 supports TypeScript
 
 A React custom hook to check the online status of a user's device. This version now supports ES6
 

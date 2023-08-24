@@ -1,7 +1,7 @@
 ````markdown
-# use-online-status
+# re-use-online@v1.1.3
 
-A React custom hook to check the online status of a user's device.
+A React custom hook to check the online status of a user's device. This version now supports ES6
 
 ## Installation
 

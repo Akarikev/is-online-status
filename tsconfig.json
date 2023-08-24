@@ -3,7 +3,7 @@
     "declaration": true, // Generate declaration files (.d.ts)
     "module": "ES6", // Specify module system (adjust if needed)
     "outDir": "./dist", // Output directory for compiled files
-    "rootDir": "./src/index.ts", // Relative path to the source directory containing your .ts files
+    "rootDir": "./src", // Relative path to the source directory containing your .ts files
     "strict": true, // Enable strict type checking
     "esModuleInterop": true, // Enable ES6 module interop
     "target": "ES6" // Specify the ECMAScript target version (adjust if needed)

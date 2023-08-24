@@ -25,5 +25,8 @@
   "readme": "https://github.com/Akarikev/is-online-status#readme",
   "dependencies": {
     "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
   }
 }

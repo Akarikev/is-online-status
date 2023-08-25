@@ -9,6 +9,6 @@ declare module "re-use-online" {
     dependencies?: DependencyList;
   }
 
-  export const useOnlineStatus: UseOnlineStatusOptions;
+  export const useOnlineStatus: UseOnlineStatus;
   export default useOnlineStatus;
 }

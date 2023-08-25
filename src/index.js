@@ -1,4 +1,4 @@
-/// <reference path="re-use-online.d.ts" />
+/// <reference path="../re-use-online.d.ts" />
 import { useState, useEffect } from "react";
 function useOnlineStatus() {
   const [isOnline, setIsOnline] = useState(window.navigator.onLine);

@@ -2,7 +2,7 @@
 description: A React custom hook to check the online status of a user's device.
 ---
 
-# REUSEONLINE v1.1.6
+# 🌟 Introduction
 
 This version supports TypeScript
 
